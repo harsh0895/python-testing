@@ -20,4 +20,6 @@ class TestCalculator(unittest.TestCase):
             divide(10, 0)
 
 if __name__ == "__main__":
+    print("All test are running...")
     unittest.main()
+    print("All test have passed...")
